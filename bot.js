@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 // إعدادات البوت
 const bot = mineflayer.createBot({
-  host: 'ghosts_craft_2025.aternos.me', // استبدلها بعنوان سيرفرك
-  port: 32609, // البورت الافتراضي
+  host: 'just4f.aternos.me', // استبدلها بعنوان سيرفرك
+  port: 48139, // البورت الافتراضي
   username: 'MyBot', // اسم البوت في اللعبة
   version: '1.20.1', // يجب أن يكون نفس إصدار السيرفر
 });
